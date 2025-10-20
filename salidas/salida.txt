@@ -1,0 +1,53 @@
+Microsoft Windows [Versi¢n 10.0.26100.6584]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1>MKDIR NUEVO
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1>CD NUEVO
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO>ECHO CREO FICHERO > Mifichero.txt
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO>DIR
+ El volumen de la unidad G es Google Drive
+ El n£mero de serie del volumen es: 1983-1116
+
+ Directorio de G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO
+
+13/10/2025  23:40    <DIR>          .
+13/10/2025  23:40    <DIR>          ..
+13/10/2025  23:40                15 Mifichero.txt
+               1 archivos             15 bytes
+               2 dirs  464.640.081.920 bytes libres
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO>DIRR
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO>ECHO FIN COMANDOS 
+FIN COMANDOS 
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO>Microsoft Windows [Versi¢n 10.0.26100.6584]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1>MKDIR NUEVO
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1>CD NUEVO
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO>ECHO CREO FICHERO > Mifichero.txt
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO>DIR
+ El volumen de la unidad G es Google Drive
+ El n£mero de serie del volumen es: 1983-1116
+
+ Directorio de G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO
+
+14/10/2025  14:26    <DIR>          .
+14/10/2025  14:26    <DIR>          ..
+14/10/2025  14:26                15 Mifichero.txt
+               1 archivos             15 bytes
+               2 dirs  268.599.324.672 bytes libres
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO>DIRR
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO>ECHO FIN COMANDOS 
+FIN COMANDOS 
+
+G:\Mi unidad\0Curso2025_2026\clases\PSP\Temario\UT1\ejemplos\Ejemplo1\NUEVO>

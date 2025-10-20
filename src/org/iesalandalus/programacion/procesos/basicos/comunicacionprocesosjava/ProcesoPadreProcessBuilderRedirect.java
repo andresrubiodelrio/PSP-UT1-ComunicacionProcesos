@@ -22,7 +22,7 @@ public class ProcesoPadreProcessBuilderRedirect {
             pb.redirectOutput(ProcessBuilder.Redirect.INHERIT);
 
             //la salida de error a fichero
-            File fError=new File("datos/errores.txt");
+            File fError=new File("errores/error.txt");
             pb.redirectError(ProcessBuilder.Redirect.to(fError));
 
             // Iniciamos el proceso
@@ -33,7 +33,7 @@ public class ProcesoPadreProcessBuilderRedirect {
             System.out.println("=== Proceso hijo terminó con código: " + codigoSalida);
 
         } catch (IOException | InterruptedException e) {
-            e.printStackTrace();
+            System.out.println(e.getMessage());
         }
     }
 }
